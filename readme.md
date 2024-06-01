@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/RafaelJango/HydroLink/assets/122299872/1db9610d-6f02-46b2-9368-3263e1cd899d" width="700px"/>
+</div>
+
 # Projeto de Monitoramento da Qualidade da Água Oceânica
 
 Este projeto foi desenvolvido como parte de um exercício acadêmico na FIAP, em parceria com a Oceans 20 (O20). A Hydrolink, uma empresa fictícia, foi criada para atender às necessidades da O20, oferecendo soluções avançadas para monitorar a qualidade da água oceânica. A tecnologia de captura e visualização de dados da Hydrolink auxilia a O20 na promoção da sustentabilidade e conservação dos oceanos.
